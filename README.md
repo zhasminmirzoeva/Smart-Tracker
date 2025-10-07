@@ -31,16 +31,16 @@ tests - юнит-тесты
 
 - Установить на устройство из App Store приложение Expo Go.
 - Клонировать проект с GitHub:
-`sh
+`
 git clone https://github.com/zhasminmirzoeva/smarttracker
 cd mobile
-`sh
+`
 - Установить зависимости проекта:
-`sh
+`
 npm install
-`sh
+`
 - Запустить проект:
-`sh
+`
 npx expo start
-`sh
+`
 - Дождаться запуска Expo DevTools и появления QR-кода в терминале или веб-интерфейсе. На iPhone открыть камеру и отсканировать код. Приложение загрузится и откроется в среде Expo Go.
